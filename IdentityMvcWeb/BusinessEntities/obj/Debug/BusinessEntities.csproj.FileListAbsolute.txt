@@ -1,0 +1,15 @@
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\BusinessEntities\bin\Debug\BusinessEntities.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\BusinessEntities\bin\Debug\BusinessEntities.pdb
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\BusinessEntities\obj\Debug\BusinessEntities.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\IdentityMvcWeb\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\IdentityMvcWeb\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\IdentityMvcWeb\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+E:\IdentityMvcWeb\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\IdentityMvcWeb\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\BusinessEntities\obj\Debug\BusinessEntities.pdb

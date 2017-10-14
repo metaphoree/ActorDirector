@@ -1,0 +1,16 @@
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\BusinessServices\bin\Debug\BusinessServices.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\BusinessServices\bin\Debug\BusinessServices.pdb
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.pdb
+E:\IdentityMvcWeb\BusinessServices\bin\Debug\BusinessServices.dll
+E:\IdentityMvcWeb\BusinessServices\bin\Debug\BusinessServices.pdb
+E:\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+E:\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.dll
+E:\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.pdb
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.dll
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.pdb

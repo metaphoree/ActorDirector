@@ -1,0 +1,28 @@
+E:\VS2015_Projects\IdentityMvcWeb\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+E:\VS2015_Projects\IdentityMvcWeb\DataModel\bin\Debug\DataModel.dll
+E:\VS2015_Projects\IdentityMvcWeb\DataModel\bin\Debug\DataModel.pdb
+E:\VS2015_Projects\IdentityMvcWeb\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\VS2015_Projects\IdentityMvcWeb\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\VS2015_Projects\IdentityMvcWeb\DataModel\obj\Debug\DataModel.dll
+E:\VS2015_Projects\IdentityMvcWeb\DataModel\obj\Debug\DataModel.pdb
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\DataModel\bin\Debug\DataModel.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\DataModel\bin\Debug\DataModel.pdb
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\DataModel\obj\Debug\DataModel.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\DataModel\obj\Debug\DataModel.pdb
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\DataModel\bin\Debug\DataModel.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\DataModel\bin\Debug\DataModel.pdb
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\DataModel\obj\Debug\DataModel.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\DataModel\obj\Debug\DataModel.pdb
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\DataModel\bin\Debug\DataModel.dll
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\DataModel\bin\Debug\DataModel.pdb
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\DataModel\obj\Debug\DataModel.dll
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\DataModel\obj\Debug\DataModel.pdb

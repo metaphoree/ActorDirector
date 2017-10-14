@@ -1,0 +1,311 @@
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.csprojResolveAssemblyReference.cache
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\ApplicationInsights.config
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\csc.exe
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\vbc.exe
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\VBCSCompiler.exe
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\IdentityMvcWeb.dll.config
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\IdentityMvcWeb.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\IdentityMvcWeb.pdb
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Antlr3.Runtime.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\DataModel.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.Web.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.ApplicationInsights.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Newtonsoft.Json.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Owin.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Net.Http.Formatting.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Helpers.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.WebHost.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Mvc.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Optimization.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Razor.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Deployment.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Razor.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\WebGrease.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\DataModel.pdb
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.Web.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.ApplicationInsights.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Newtonsoft.Json.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Net.Http.Formatting.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Helpers.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.WebHost.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Mvc.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Optimization.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Razor.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Deployment.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Razor.xml
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Antlr3.Runtime.pdb
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.dll
+E:\VS2015_Projects\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.pdb
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\ApplicationInsights.config
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\csc.exe
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\System.Collections.Immutable.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\System.Reflection.Metadata.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\vbc.exe
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\VBCSCompiler.exe
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\VBCSCompiler.exe.config
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\IdentityMvcWeb.dll.config
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\IdentityMvcWeb.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\IdentityMvcWeb.pdb
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Antlr3.Runtime.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\DataModel.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.Agent.Intercept.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.DependencyCollector.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.Web.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.WindowsServer.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.ApplicationInsights.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Core.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Cookies.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Google.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.OAuth.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Web.Infrastructure.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Newtonsoft.Json.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Owin.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Net.Http.Formatting.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Helpers.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.WebHost.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Mvc.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Optimization.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Razor.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Deployment.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Razor.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\WebGrease.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\DataModel.pdb
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.DependencyCollector.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.Web.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.WindowsServer.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.ApplicationInsights.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Core.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Cookies.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Google.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.OAuth.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Newtonsoft.Json.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Net.Http.Formatting.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Helpers.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.WebHost.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Mvc.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Optimization.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Razor.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Deployment.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Razor.xml
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\bin\Antlr3.Runtime.pdb
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.csprojResolveAssemblyReference.cache
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.dll
+G:\from rasel bhai\New folder\alg\JAVA-NOTES\ASP.NET_MVC\Projects\Projects\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.pdb
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\ApplicationInsights.config
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\csc.exe
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\vbc.exe
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\VBCSCompiler.exe
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\IdentityMvcWeb.dll.config
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\IdentityMvcWeb.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\IdentityMvcWeb.pdb
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Antlr3.Runtime.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\DataModel.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.Web.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.ApplicationInsights.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Newtonsoft.Json.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Owin.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Net.Http.Formatting.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Helpers.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.WebHost.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Mvc.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Optimization.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Razor.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Deployment.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Razor.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\WebGrease.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\DataModel.pdb
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.Web.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.ApplicationInsights.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Newtonsoft.Json.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Net.Http.Formatting.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Helpers.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.WebHost.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Mvc.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Optimization.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Razor.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Deployment.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Razor.xml
+E:\IdentityMvcWeb\IdentityMvcWeb\bin\Antlr3.Runtime.pdb
+E:\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.csprojResolveAssemblyReference.cache
+E:\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.dll
+E:\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.pdb
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\ApplicationInsights.config
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\csc.exe
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\vbc.exe
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\VBCSCompiler.exe
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\IdentityMvcWeb.dll.config
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\IdentityMvcWeb.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\IdentityMvcWeb.pdb
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Antlr3.Runtime.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\DataModel.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.Web.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.ApplicationInsights.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Newtonsoft.Json.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Owin.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Net.Http.Formatting.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Helpers.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.WebHost.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Mvc.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Optimization.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Razor.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Deployment.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Razor.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\WebGrease.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\DataModel.pdb
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.Web.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.ApplicationInsights.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Newtonsoft.Json.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Net.Http.Formatting.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Helpers.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Http.WebHost.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Mvc.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Optimization.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.Razor.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Deployment.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\System.Web.WebPages.Razor.xml
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\bin\Antlr3.Runtime.pdb
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.csprojResolveAssemblyReference.cache
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.dll
+E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.pdb
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.csprojResolveAssemblyReference.cache
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.dll
+D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\IdentityMvcWeb\obj\Debug\IdentityMvcWeb.pdb

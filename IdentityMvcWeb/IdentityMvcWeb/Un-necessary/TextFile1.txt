@@ -1,0 +1,23 @@
+﻿Actor Profile
+---------------------
+
+Image Upload
+Name
+Tell Something About Youreself
+DOB
+Location
+Contact Email
+BloodGroup
+Sex
+Height
+Hair Color
+Works
+Recent Works
+Interested In
+Achivements and Awards
+Educational Background
+
+---------------------> 
+Image Gallery -- Page Can Be Added
+Movie Clips --> Page Can Be Added
+

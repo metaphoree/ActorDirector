@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/Content/mycss")
+@Styles.Render("~/Content/LogIn")
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<!--class="navbar navbar-inverse navbar-fixed-top"-->
+</head>
+<body>
+    <div>
+        <div class="container-fluid">
+            <nav class="nav--main">
+                <div class="nav__logo">
+                    <a href="index.html">
+                        Actor <span>Management</span>
+                    </a>
+                </div>
+                <ul class="nav__items nav__items--right">
+                    <li class="nav__item">
+                        <a href="#search" class="search-trigger icon-magnifier"></a>
+                    </li>
+                    <li id="login" class="nav__item">
+                        <a href="@Url.Action("Login","Account")">
+                            Login
+                        </a>
+                    </li>
+                    <li id="register" class="nav__item">
+                        <a href="@Url.Action("Register","Account")">
+                            <span class="btn btn-success">Register</span>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="nav__items nav__items--left">
+                    <li class="nav__item nav__item--main">
+                        <a href="#" class="articles ">
+                            Articles
+                        </a>
+                    </li>
+                    <li class="nav__item nav__item--main">
+                        <a href="#" class="posts ">
+                            Forum
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+          
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <h3>A community that learns together.</h3>
+            <ul class="list-inline">
+                <li><a href="#" class="neon">Article License</a></li>
+                <li><a href="#" class="neon">Privacy Policy</a></li>
+                <li><a href="#" class="neon">Contact Form</a></li>
+                <li><a href="#" class="neon">The Book</a></li>
+            </ul>
+            <p class="copyright">
+                Copyright © 2017 <a href="#" target="_blank">Actor Management</a>.
+                <span class="second-line">All Rights Reserved.</span>
+            </p>
+            <ul class="list-inline share-buttons">
+                <li>
+                    <a href="#e" target="_blank" data-provider="facebook" title="Tutorialzine on Facebook">
+                        <i class="icon-social-facebook icon-primary icon-outlined"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" target="_blank" data-provider="twitter" title="Tutorialzine on Twitter">
+                        <i class="icon-social-twitter icon-primary icon-outlined"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" target="_blank" data-provider="google" title="Tutorialzine on Google Plus">
+                        <i class="icon-social-google icon-primary icon-outlined"></i>
+                    </a>
+                </li>
+            </ul>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+    
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <script src="~/asset/cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js" integrity="sha384-I6F5OKECLVtK/BL+8iSLDEHowSAfUo76ZL9+kGAgTRdiByINKJaqTPH/QVNS1VDb" crossorigin="anonymous"></script>
+
+    <script src="~/asset/cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+    <script src="~/asset/cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    <script src="~/asset/build/js/bundle-2deed760be.js"></script> 
+</body>
+</html>
