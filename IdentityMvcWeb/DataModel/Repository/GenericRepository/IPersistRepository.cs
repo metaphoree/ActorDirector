@@ -4,8 +4,8 @@ namespace Kloud21.GenericRepository
 {
     public interface IPersistRepository<TEntity> where TEntity : class
     {
-        TEntity Add(TEntity entity);
-
+        //TEntity Add(TEntity entity);
+        void Add(TEntity entity);
         TEntity AddProfile(TEntity entity);
 
         TEntity UpdateProfile(TEntity entity);

@@ -26,11 +26,11 @@ namespace BusinessServices
 
         //Added by vishal 16-Oct-2016
         #region Member
-        public long AddMember(MemberProfileDTO addressDto)
+        public void AddMember(MemberProfileDTO addressDto)
         {
             Mapper.Initialize(cfg => cfg.CreateMap<MemberProfileDTO, MemberProfile>());
 
-            return uow.MemberProfileRepo.Add(Mapper.Map<MemberProfileDTO, MemberProfile>(addressDto)).Id;
+            uow.MemberProfileRepo.Add(Mapper.Map<MemberProfileDTO, MemberProfile>(addressDto));
 
         }
         public void UpdateMember(MemberProfileDTO addressDto)

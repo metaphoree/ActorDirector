@@ -15,7 +15,7 @@ namespace DataModel.Repository.DomainRepository.Member
         public MemberProfileRepository(IDbSession dbSession)
             : base(dbSession)
         {
-            SchemaName = "member";
+           // SchemaName = "member";
         }
 
 

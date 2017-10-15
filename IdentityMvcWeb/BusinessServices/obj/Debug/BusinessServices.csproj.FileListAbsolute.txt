@@ -14,3 +14,16 @@ E:\VS2015_Projects\ActorDirector\IdentityMvcWeb\BusinessServices\obj\Debug\Busin
 D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
 D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.dll
 D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.pdb
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.dll
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\obj\Debug\BusinessServices.pdb
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\bin\Debug\BusinessServices.dll
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\bin\Debug\BusinessServices.pdb
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\bin\Debug\AutoMapper.dll
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\bin\Debug\BusinessEntities.dll
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\bin\Debug\DataModel.dll
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\bin\Debug\BusinessEntities.pdb
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\bin\Debug\DataModel.pdb
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\bin\Debug\AutoMapper.xml
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\BusinessServices\bin\Debug\Microsoft.AspNet.Identity.Core.xml

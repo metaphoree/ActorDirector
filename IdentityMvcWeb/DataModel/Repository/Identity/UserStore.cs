@@ -15,7 +15,7 @@ namespace Kloud21.DataModel.Identity
         IUserTwoFactorStore<TUser,long>, IUserLoginStore<TUser,long>, IUserLockoutStore<TUser, long>, IUserRoleStore<TUser, long>//, IUserClaimStore<TUser, long>
         where TUser : IdentityUser
     {
-        private bool _disposed;
+        private bool _disposed=false;
         IConnectionStringProvider con = new ConfigurationConnectionStringProvider("DefaultConnection");
         IAdoNetProvider prov = new SqlServerAdoNetProvider();
         IDbSession dbSession;

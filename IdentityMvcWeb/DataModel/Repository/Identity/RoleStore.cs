@@ -14,7 +14,7 @@ namespace Kloud21.DataModel.Identity
     public class RoleStore<TRole> : IQueryableRoleStore<TRole, long>
         where TRole : IdentityRole
     {
-        private bool _disposed;
+        private bool _disposed=false;
         IConnectionStringProvider con = new ConfigurationConnectionStringProvider("DefaultConnection");
         IAdoNetProvider prov = new SqlServerAdoNetProvider();
         IDbSession dbSession;

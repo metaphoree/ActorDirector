@@ -11,7 +11,7 @@ namespace Kloud21.ADODAL
         IList<T> ExecuteReader<T>(CommandType commandType, string commandText, IDictionary<string, object> parameters, IDictionary<string, object> outputParameters = null) 
             where T : new();
 
-        T ExecuteScalar<T>(CommandType commandType, string commandText, IDictionary<string, object> parameters, IDictionary<string, object> outputParameters = null);
+        void ExecuteScalar<T>(CommandType commandType, string commandText, IDictionary<string, object> parameters, IDictionary<string, object> outputParameters = null);
 
         int ExecuteNonQuery(CommandType commandType, string commandText, IDictionary<string, object> parameters, IDictionary<string, object> outputParameters = null);
 

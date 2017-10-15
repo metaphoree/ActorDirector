@@ -26,3 +26,10 @@ D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\DataModel\bin\Debug\Microsoft.AspNe
 D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
 D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\DataModel\obj\Debug\DataModel.dll
 D:\Winows_10_Projects_VS_2017\IdentityMvcWeb\DataModel\obj\Debug\DataModel.pdb
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\DataModel\bin\Debug\DataModel.dll
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\DataModel\bin\Debug\DataModel.pdb
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\DataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\DataModel\obj\Debug\DataModel.dll
+E:\VS2015_Projects\ActorDirectorGithub\ActorDirector\IdentityMvcWeb\DataModel\obj\Debug\DataModel.pdb
