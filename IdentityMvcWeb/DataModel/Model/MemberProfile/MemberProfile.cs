@@ -9,7 +9,8 @@ using System.Threading.Tasks;
 {
   public class MemberProfile : Entity
     {
-        
+
+       
         public string FirstName { get; set; }
         public string LastName { get; set; }     
         public DateTime DOB { get; set; }

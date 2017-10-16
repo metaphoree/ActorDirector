@@ -37,9 +37,9 @@ namespace Kloud21.GenericRepository
             return DbSession.ExecuteReader<TEntity>(CommandType.StoredProcedure, spName, parameters, outputParameters);
         }
       
-        protected void ExecuteStoreProcedureScalar<T>(string spName, IDictionary<string, object> parameters, IDictionary<string, object> outputParameters = null)
+        protected T ExecuteStoreProcedureScalar<T>(string spName, IDictionary<string, object> parameters, IDictionary<string, object> outputParameters = null)
         {
-             DbSession.ExecuteScalar<T>(CommandType.StoredProcedure, spName, parameters, outputParameters);
+            return DbSession.ExecuteScalar<T>(CommandType.StoredProcedure, spName, parameters, outputParameters);
         }
 
         protected int ExecuteStoreProcedureNonQuery(string spName, IDictionary<string, object> parameters, IDictionary<string, object> outputParameters = null)
@@ -96,23 +96,23 @@ namespace Kloud21.GenericRepository
             return result.FirstOrDefault();
         }
         
-        public virtual void Add(TEntity entity)
+        public virtual TEntity Add(TEntity entity)
         {
             var spName =  StoreProcPrefix + TableName + "_Create";
-            var rparams = GetParametersFromEntity(entity, "Id");
+            var rparams = GetParametersFromEntity(entity);
              ExecuteStoreProcedureScalar<TKey>(spName, rparams);
 
-            // var entityId = ExecuteStoreProcedureScalar<TKey>(spName, rparams);
-            //return FindBy(entityId);
+             var entityId = ExecuteStoreProcedureScalar<TKey>(spName, rparams);
+            return FindBy(entityId);
         }
         public virtual TEntity AddProfile(TEntity entity)
         {
-            //var spName = StoreProcPrefix + TableName + "_Create";
-            //var rparams = GetParametersFromEntity(entity);
+            var spName = StoreProcPrefix + TableName + "_Create";
+            var rparams = GetParametersFromEntity(entity);
 
-            //            var entityId = ExecuteStoreProcedureScalar<TKey>(spName, rparams);
-            //           return FindBy(entityId);
-            return entity;
+            var entityId = ExecuteStoreProcedureScalar<TKey>(spName, rparams);
+            return FindBy(entityId);
+
         }
         public virtual void Update(TEntity entity)
         {
@@ -130,11 +130,11 @@ namespace Kloud21.GenericRepository
         }
         public virtual TEntity UpdateProfile(TEntity entity)
         {
-            //var spName = StoreProcPrefix + TableName + "_Update";
-            //var rparams = GetParametersFromEntity(entity);
-            //var entityId = ExecuteStoreProcedureScalar<TKey>(spName, rparams);
-            //return FindBy(entityId);
-            return entity;
+            var spName = StoreProcPrefix + TableName + "_Update";
+            var rparams = GetParametersFromEntity(entity);
+            var entityId = ExecuteStoreProcedureScalar<TKey>(spName, rparams);
+            return FindBy(entityId);
+
         }
 
         public virtual void Delete(TEntity entity)

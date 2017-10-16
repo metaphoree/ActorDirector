@@ -165,14 +165,14 @@ namespace Kloud21.ADODAL
             }
         }
 
-        public void ExecuteScalar<T>(CommandType commandType, string commandText, IDictionary<string, object> parameters, IDictionary<string, object> outputParameters = null)
+        public  T ExecuteScalar<T>(CommandType commandType, string commandText, IDictionary<string, object> parameters, IDictionary<string, object> outputParameters = null)
         {
             OpenConnection();
             try
             {
                 PrepareCommand(commandType, commandText, parameters);
                 var result = _command.ExecuteScalar();
-                //return (T)Convert.ChangeType(result, typeof (T));
+                return (T)Convert.ChangeType(result, typeof (T));
             }
             catch (SqlException ex)
             {
