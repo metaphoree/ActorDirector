@@ -56,7 +56,7 @@
     <Compile Include="Model\IUserIdentity.cs" />
     <Compile Include="Model\MemberProfile\MemberProfile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repository\GenericRepository\Member\MemberProfileRepository.cs" />
+    <Compile Include="Repository\DomainRepository\Member\MemberProfileRepository.cs" />
     <Compile Include="Repository\GenericRepository\DbRepository.cs" />
     <Compile Include="Repository\GenericRepository\IPersistRepository.cs" />
     <Compile Include="Repository\GenericRepository\IRawRepository.cs" />
@@ -81,9 +81,7 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Repository\DomainRepository\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

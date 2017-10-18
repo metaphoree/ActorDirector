@@ -131,7 +131,7 @@ namespace IdentityMvcWeb.Controllers
                             // IQueryable<IdentityRole> roles = RoleManager.Roles;
                             //   IList<string> iroles = new List<string>();
 
-                            returnUrl = returnUrl.Trim();
+                            //returnUrl = returnUrl.Trim();
                             if (string.IsNullOrEmpty(returnUrl) || returnUrl.Equals(""))
                             {
                                 if (User.IsInRole(CustomRoles.Admin))

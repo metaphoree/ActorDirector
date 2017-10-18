@@ -21,3 +21,12 @@ Educational Background
 Image Gallery -- Page Can Be Added
 Movie Clips --> Page Can Be Added
 
+
+Select IUSER.Id,IUSEROLE.RoleId from 
+IdentityUser as IUSER
+JOIN
+IdentityUserRole as IUSEROLE
+WHERE IUSER.Id=IUSEROLE.RoleId
+
+
+
